@@ -15,7 +15,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I’m Studying as a Data & AI and contributing for building Sudoku Solver.
+- :telescope: I’m Studying as a Data & AI and contributing for building Game of Life by conway.
 
 - :seedling: Exploring Technical Content Writing.
 
